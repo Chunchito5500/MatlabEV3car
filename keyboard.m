@@ -15,7 +15,7 @@ while 1
 		case 'd'
 			brick.MoveMotor('A', 20)
         case 'p'
-            brick.MoveMotorAngleAbs('C',20,30,'Brake')
+            brick.MoveMotorAngleAbs('C',5,10,'Coast')
 		case '0'
 			disp('No Key Pressed!');
 		Case ‘q’
