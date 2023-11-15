@@ -1,1 +1,0 @@
-brick.StopMotor('ABC')
